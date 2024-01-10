@@ -1,6 +1,6 @@
 [package]
 name = "evil-workspace"
-version = "0.8.5"
+version = "0.254.0"
 edition = "2021"
 repository = "https://github.com/mistydemeo/evil-workspace"
 description = "pure evil"
@@ -45,8 +45,6 @@ unix-archive = ".tar.gz"
 pr-run-mode = "plan"
 # Where to host releases
 hosting = ["axodotdev", "github"]
-# Skip checking whether the specified configuration files are up to date
-allow-dirty = ["ci"]
 
 # The profile that 'cargo dist' will build with
 [profile.dist]

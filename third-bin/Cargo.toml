@@ -1,6 +1,6 @@
 [package]
 name = "third-bin"
-version = "0.8.5"
+version = "0.254.0"
 edition = "2021"
 authors = ["Gankra"]
 repository = "https://github.com/mistydemeo/evil-workspace"
