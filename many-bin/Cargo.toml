@@ -3,7 +3,7 @@ name = "many-bin"
 version = "0.8.5"
 edition = "2021"
 authors = ["Gankra"]
-repository = "https://github.com/gankra/evil-workspace/"
+repository = "https://github.com/mistydemeo/evil-workspace"
 description = "many pure evil"
 
 [package.metadata.wix]
@@ -18,4 +18,3 @@ eula = false
 name = "cargo-many-bin"
 
 [dependencies]
-
