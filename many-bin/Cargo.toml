@@ -1,6 +1,6 @@
 [package]
 name = "many-bin"
-version = "0.255.0"
+version.workspace = true
 edition = "2021"
 authors = ["Gankra"]
 repository = "https://github.com/mistydemeo/evil-workspace"

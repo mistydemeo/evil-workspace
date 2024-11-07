@@ -1,6 +1,6 @@
 [package]
 name = "test-bin"
-version = "0.255.0"
+version.workspace = true
 edition = "2021"
 publish = false
 
